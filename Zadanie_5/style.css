@@ -1,0 +1,47 @@
+body {
+  width: 50%;
+  padding: 0;
+  margin-left: 10px;
+}
+
+button {
+    padding: 0;
+    color: rgb(0, 0, 0);
+    background: rgb(129, 186, 233); 
+    margin-left: 5px;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: rgb(0, 140, 255);
+  }
+
+input {
+  border-width: 3px;
+  border-radius: 5px;
+  border-color: rgb(0, 140, 255);
+}
+
+div {
+  padding: 5px;
+  width: 100%;
+  border: 2px inset rgb(0, 162, 255);
+  border-radius: 10px;
+}
+
+.p1 {
+  margin-right: 50%;
+  color: blue;
+  margin-left: 5px;
+  border: 4px inset rgba(0, 140, 255);
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.p2 {
+  margin-left: 50%;
+  color: brown;
+  border: 4px inset rgba(255, 123, 0, 0.938);
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
